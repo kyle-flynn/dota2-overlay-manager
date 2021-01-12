@@ -1,0 +1,22 @@
+{
+  "name": "dota2-overlay-manager",
+  "version": "1.0.0",
+  "description": "DotA 2 overlay manager for OBS",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle-flynn/dota2-overlay-manager.git"
+  },
+  "author": "Kyle Flynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kyle-flynn/dota2-overlay-manager/issues"
+  },
+  "homepage": "https://github.com/kyle-flynn/dota2-overlay-manager#readme",
+  "dependencies": {
+    "dota2-gsi": "^1.0.2"
+  }
+}
